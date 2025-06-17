@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Al-Quran",
+    "description": "A beautifully designed Al-Quran app with multi-language support, translation, and bookmarking features. Ideal for learners, this app offers a clean UI and lightweight performance. Developed with Room DB and dynamic server-controlled content for enhanced learning experiences.",
+    "type": "APP",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Budget Buddy",
+    "description": "Budget Buddy is a mobile application designed to help users manage their personal finances effectively. The app allows users to track their income and expenses, set budgets, view spending patterns, and make informed financial decisions.. With a user-friendly interface, the app provides real-time updates and insights into personal finances.",
+    "type": "APP",
+    "thumbnailImage": "files/budgetBuddy/thumb.webp",
+    "screenshotImages": [
+      "files/budgetBuddy/cover.webp",
+      "files/budgetBuddy/img.webp",
+      "files/budgetBuddy/img_1.webp",
+      "files/budgetBuddy/img_2.webp",
+      "files/budgetBuddy/img_3.webp"
+    ]
+  },
+  {
+    "title": "Weather",
+    "description": "A clean and responsive weather app showing real-time updates, forecasts, and location-based data. Designed with Compose and modern Android principles, the app integrates API-driven weather data with a minimal aesthetic.",
+    "type": "APP",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Image Resizer",
+    "description": "A handy tool to compress and resize images in KB without compromising quality. Includes multiple aspect ratios, custom size entry, and preview. Lightweight, fast, and ideal for users needing optimized images for web and social media.",
+    "type": "APP",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Image Puzzle",
+    "description": "An engaging image-based puzzle game built with Java Canvas and XML. Rearrange shuffled image tiles to complete the original picture.",
+    "type": "GAME",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

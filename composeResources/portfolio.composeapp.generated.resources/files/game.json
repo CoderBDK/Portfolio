@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Brick Breaker",
+    "description": "A classic brick breaker game developed using Java Canvas and XML. Features smooth ball physics, paddle control, and brick collision handling.",
+    "type": "GAME",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Image Puzzle",
+    "description": "An engaging image-based puzzle game built with Java Canvas and XML. Rearrange shuffled image tiles to complete the original picture.",
+    "type": "GAME",
+    "thumbnailImage": "",
+    "screenshotImages": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "title": "Tic Tac Toe",
+    "description": "A clean and responsive Tic Tac Toe game crafted using Kotlin and Jetpack Compose Canvas. Includes smooth animations and adaptive design.",
+    "type": "GAME",
+    "thumbnailImage": "https://raw.githubusercontent.com/CoderBDK/TicTacToe/refs/heads/master/screenshots/screenshot1.png",
+    "screenshotImages": [
+      "https://raw.githubusercontent.com/CoderBDK/TicTacToe/refs/heads/master/screenshots/screenshot0.webp",
+      "https://raw.githubusercontent.com/CoderBDK/TicTacToe/refs/heads/master/screenshots/screenshot1.png",
+      "https://raw.githubusercontent.com/CoderBDK/TicTacToe/refs/heads/master/screenshots/screenshot2.png",
+      "https://raw.githubusercontent.com/CoderBDK/TicTacToe/refs/heads/master/screenshots/screenshot3.png"
+    ]
+  }
+]
