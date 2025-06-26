@@ -69,7 +69,7 @@ html, body {
 
 /* Progress Bar Container */
 .progress-container {
-    width: 60%;  /* Reduced width for a more compact look */
+    width: 60%;
     height: 8px; /* Smaller height */
     background-color: var(--secondary-container-dark);
     border-radius: 5px;
@@ -96,6 +96,13 @@ html, body {
     color: var(--tertiary-container-dark);
     margin-top: 15px;
     animation: fadeInOut 1.5s infinite;
+}
+
+/* Hidden State */
+.hidden {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
 }
 
 /* Fading Effect for Loading Text */
